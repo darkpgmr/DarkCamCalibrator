@@ -3,6 +3,8 @@
 ### Camera Calibration Tool
 This is a utility program that helps calibrating normal and fisheye cameras. Anyone can use it for non-commercial purposes.
 
+※ Since this program is not code-signed, download and execution may be blocked by Windows and web browsers. This is a personally created program and a 100% safe program, but only for those who need it.
+
 ### Download Executable
 * [DarkCamCalibrator1.1.zip](https://github.com/darkpgmr/DarkCamCalibrator/releases/download/darkcamcalibrator1.1-release/DarkCamCalibrator1.1.zip)
 (currently, only binary executable can be downloaded)
